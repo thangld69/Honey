@@ -278,6 +278,7 @@ button {
 
 .img_responsive {
      max-width: 100%;
+     border-radius: 5%;
 }
 
 
