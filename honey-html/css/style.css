@@ -695,7 +695,8 @@ ul.conta_top li a {
 /** honey_bg **/
 
 .honey_bg {
-     margin: 0 auto;
+     /* margin-top: 150px; */
+     margin: 120px auto;
      display: block;
 }
 
@@ -753,8 +754,8 @@ ul.social_icon li {
 
 ul.social_icon li a {
      background: #fff;
-     width: 33px;
-     height: 33px;
+     width: 44px;
+     height: 44px;
      display: flex;
      align-items: center;
      justify-content: center;
